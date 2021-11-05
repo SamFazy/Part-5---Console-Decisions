@@ -138,6 +138,8 @@ namespace Part_5___Console_Decisions
 
             Console.ReadLine();
 
+            Console.WriteLine("");
+
 
         }
     }
